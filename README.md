@@ -5,6 +5,6 @@
 2) Download loc files to `/quake/qw/locs`
 
 ## Teamplay config
-1) Download `tvs_alias.cfg` and `tvs_tp.cfg` to `/quake/id1`
+1) Download [`tvs_alias.cfg`](https://raw.githubusercontent.com/vikpe/xmas/main/tvs_alias.cfg) and [`tvs_tp.cfg`](https://raw.githubusercontent.com/vikpe/xmas/main/tvs_tp.cfg) to `/quake/id1`
 2) Edit `tvs_tp.cfg`
 3) Add `exec tvs_tp.cfg` at the bottom of you current config.
