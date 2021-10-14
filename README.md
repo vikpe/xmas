@@ -16,8 +16,9 @@
 ## Minimal European server list
 1. Download [`europe_slim.txt`](https://raw.githubusercontent.com/vikpe/xmas/main/europe_slim.txt) to `/quake/ezquake/sb/`
 2. Add `file "Europe slim" europe_slim.txt` to `/quake/ezquake/sb/sources.txt`
-3. Add to your config: 
+3. Add to your config:
   ```
   sb_sourceunmarkall
   sb_sourcemark "Europe slim"
   ``` 
+4. (optional, convenience) bind a key to `menu_slist` (server browser + refresh) and/or `menu_serverbrowser` (server browser)
