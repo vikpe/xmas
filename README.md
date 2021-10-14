@@ -9,7 +9,7 @@
 2) Edit `tvs_tp.cfg`
 3) Add `exec tvs_tp.cfg` at the bottom of you current config.
 
-## Minimal server list
+## Minimal European server list
 1. Download [`europe_slim.txt`](https://raw.githubusercontent.com/vikpe/xmas/main/europe_slim.txt) to `/quake/ezquake/sb/`
 2. Add `file "Europe slim" europe_slim.txt` to `/quake/ezquake/sb/sources.txt`
 3. Add to your config: 
