@@ -14,7 +14,7 @@ london.badplace.eu:28504
 18.196.7.115:28504
 ie.predze.dk:28501
 ie.predze.dk:28502
-ie.predze.dk:285f3
+ie.predze.dk:28503
 quakeworld.uk:27500
 quakeworld.uk:27501
 quakeworld.uk:27502
