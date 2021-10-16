@@ -41,3 +41,7 @@ suddendeath.nu:28503
 suddendeath.nu:28504
 suddendeath.nu:28505
 suddendeath.nu:28506
+qw.playground.ru:27501
+qw.playground.ru:27502
+qw.playground.ru:27503
+qw.playground.ru:27504
