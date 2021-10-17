@@ -45,3 +45,7 @@ qw.playground.ru:27501
 qw.playground.ru:27502
 qw.playground.ru:27503
 qw.playground.ru:27504
+troopers.fi:28001
+troopers.fi:28002
+troopers.fi:28003
+troopers.fi:28004
