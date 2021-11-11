@@ -49,3 +49,4 @@ troopers.fi:28001
 troopers.fi:28002
 troopers.fi:28003
 troopers.fi:28004
+148.251.10.210:27500 // FA @ qw.servegame.org_
