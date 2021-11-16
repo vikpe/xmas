@@ -1,3 +1,7 @@
+qw.foppa.dk:28501
+qw.foppa.dk:28502
+qw.foppa.dk:28503
+qw.foppa.dk:28504
 qw.foppa.dk:27501
 qw.foppa.dk:27502
 qw.foppa.dk:27503
