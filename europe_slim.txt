@@ -40,6 +40,12 @@ qw.irc.ax:27502
 qw.irc.ax:27503
 qw.irc.ax:27504
 qw.irc.ax:27505
+qw.irc.ax:27506
+qw.irc.ax:27507
+qw.irc.ax:27508
+qw.irc.ax:27509
+qw.irc.ax:27510
+qw.irc.ax:27511
 suddendeath.nu:28501
 suddendeath.nu:28502
 suddendeath.nu:28503
