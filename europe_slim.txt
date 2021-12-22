@@ -31,7 +31,6 @@ nl2.badplace.eu:28502
 nl2.badplace.eu:28503
 nl2.badplace.eu:28504
 nl2.badplace.eu:28505
-nl2.badplace.eu:28506
 nl.aye.wtf:28501
 nl.aye.wtf:28502
 nl.aye.wtf:28503
@@ -40,18 +39,11 @@ qw.irc.ax:27502
 qw.irc.ax:27503
 qw.irc.ax:27504
 qw.irc.ax:27505
-qw.irc.ax:27506
-qw.irc.ax:27507
-qw.irc.ax:27508
-qw.irc.ax:27509
-qw.irc.ax:27510
-qw.irc.ax:27511
 suddendeath.nu:28501
 suddendeath.nu:28502
 suddendeath.nu:28503
 suddendeath.nu:28504
 suddendeath.nu:28505
-suddendeath.nu:28506
 qw.playground.ru:27501
 qw.playground.ru:27502
 qw.playground.ru:27503
