@@ -43,6 +43,10 @@ quake.se:28502
 quake.se:28503
 quake.se:28504
 quake.se:28505
+quake.se:28506
+quake.se:28507
+quake.se:28508
+quake.se:28509
 suddendeath.nu:28501
 suddendeath.nu:28502
 suddendeath.nu:28503
