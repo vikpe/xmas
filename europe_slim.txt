@@ -1,7 +1,13 @@
-de.aye.wtf:28501
-de.aye.wtf:28502
-de.aye.wtf:28503
-de.aye.wtf:28504
+de.aye.wtf:27501
+de.aye.wtf:27502
+de.aye.wtf:27503
+de.aye.wtf:27504
+de.aye.wtf:27505
+de.aye.wtf:27506
+nl.aye.wtf:27501
+nl.aye.wtf:27502
+nl.aye.wtf:27503
+nl.aye.wtf:27504
 qw.foppa.dk:28501
 qw.foppa.dk:28502
 qw.foppa.dk:28503
@@ -60,12 +66,6 @@ troopers.fi:28001
 troopers.fi:28002
 troopers.fi:28003
 troopers.fi:28004
-148.251.10.210:27500 // FA @ qw.servegame.org_
-// antilag.nl.aye.wtf
-78.141.221.0:28501
-78.141.221.0:28502
-78.141.221.0:28503
-78.141.221.0:28504
 qw.0f.se:27501
 qw.0f.se:27502
 qw.0f.se:27503
