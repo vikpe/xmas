@@ -14,15 +14,6 @@ nl.aye.wtf:27501
 nl.aye.wtf:27502
 nl.aye.wtf:27503
 nl.aye.wtf:27504
-qw.foppa.dk:28501
-qw.foppa.dk:28502
-qw.foppa.dk:28503
-qw.foppa.dk:28504
-qw.foppa.dk:27501
-qw.foppa.dk:27502
-qw.foppa.dk:27503
-qw.foppa.dk:27504
-qw.foppa.dk:27505
 london.badplace.eu:28501
 london.badplace.eu:28502
 london.badplace.eu:28503
