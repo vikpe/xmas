@@ -5,7 +5,11 @@
 185.73.44.100:28504
 185.73.44.100:28505
 185.73.44.100:28506
-
+dk.quake.world:28501
+dk.quake.world:28502
+dk.quake.world:28503
+dk.quake.world:28504
+dk.quake.world:28505
 de.aye.wtf:27501
 de.aye.wtf:27502
 de.aye.wtf:27503
